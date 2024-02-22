@@ -1,0 +1,28 @@
+# Mac OS X
+*.DS_Store
+
+## User settings
+xcuserdata/
+
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+project.xcworkspace/
+
+
+## Obj-C/Swift specific
+*.hmap
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+!frameworks/**/*.dSYM
+*.mobileprovision
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
